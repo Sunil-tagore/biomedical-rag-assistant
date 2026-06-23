@@ -120,4 +120,4 @@ biomedical-rag-assistant/
 MS Engineering Data Science, University of Houston (GPA: 4.0)
 Machine Learning Research Intern, Baylor College of Medicine
 
-[LinkedIn](https://linkedin.com/in/sunil-tagore-veluturi) | [Hugging Face](https://huggingface.co/sunilveluturi)
+[LinkedIn](www.linkedin.com/in/sunil-tagore-veluturi-366b8917b) | [Hugging Face](https://huggingface.co/sunilveluturi)
