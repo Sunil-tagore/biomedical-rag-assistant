@@ -1,3 +1,13 @@
+---
+title: Biomedical RAG Assistant
+emoji: 🧬
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # 🧬 Biomedical Research Paper RAG Assistant
 
 A domain-specific Retrieval-Augmented Generation (RAG) system that enables researchers to upload biomedical research papers and ask natural language questions — receiving source-grounded AI answers powered by Llama 3.3 70B.
@@ -120,4 +130,4 @@ biomedical-rag-assistant/
 MS Engineering Data Science, University of Houston (GPA: 4.0)
 Machine Learning Research Intern, Baylor College of Medicine
 
-[LinkedIn](www.linkedin.com/in/sunil-tagore-veluturi-366b8917b) | [Hugging Face](https://huggingface.co/sunilveluturi)
+[LinkedIn](https://www.linkedin.com/in/sunil-tagore-veluturi-366b8917b) | [Hugging Face](https://huggingface.co/sunilveluturi)
